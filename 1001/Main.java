@@ -32,10 +32,9 @@ public class Main {
         int number1 = scn.nextInt();
         int number2 = scn.nextInt();
 
-        System.out.println( "X = " + (number1 + number2) );
+        System.out.println("X = " + (number1 + number2));
         scn.close();
 
     }
 
 }
-
